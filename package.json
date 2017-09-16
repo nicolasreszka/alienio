@@ -1,0 +1,9 @@
+{
+  "name": "alien-io-server",
+  "version": "0.0.1",
+  "description": "the server for the alien.io game",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
