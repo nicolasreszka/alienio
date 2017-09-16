@@ -8,6 +8,6 @@ Description : This is the first draft for an online multiplayer game client & se
 
 Dependencies : 
 
-  -server : NodeJS, Express
+  -server : NodeJS, Express, SocketIO
   
-  -client : SocketIO, PlaygroundJS
+  -client : PlaygroundJS
